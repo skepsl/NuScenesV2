@@ -1,0 +1,10 @@
+{
+
+  "model_name" : "HLS",
+
+  "Nuscenes" : {
+    "dataset_path": "/home/ciotuser/PycharmProjects/NUReproduce/dataset_raw",
+    "preproc_dataset_path" : "/home/ciotuser/PycharmProjects/NUReproduce/dataset_preprocessed",
+    "voxel_dir" : "/home/ciotuser/PycharmProjects/NUReproduce/dataset_preprocessed/voxels"
+  }
+}

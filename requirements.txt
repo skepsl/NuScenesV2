@@ -1,0 +1,16 @@
+opencv-python
+matplotlib
+numpy
+scipy
+dill
+onnxruntime
+pandas
+skimage
+tqdm
+seaborn
+scikit-learn
+scikit-image
+pyquaternion
+cachetools
+descartes
+shapely
